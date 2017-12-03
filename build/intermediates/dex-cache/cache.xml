@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\vishal\AndroidStudioProjects\DecThree\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\vishal\AndroidStudioProjects\DecThree\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_16fff0a036cc6d8261b669b572bfd5a1f5e0a442.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vishal\AndroidStudioProjects\DecThree\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\vishal\AndroidStudioProjects\DecThree\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.0.0-alpha1_c32ca04f4cab9a1647951be1da8a093a9e2c1ab5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vishal\AndroidStudioProjects\DecThree\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\vishal\AndroidStudioProjects\DecThree\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.0.0-alpha1_d7333b7654de244b816441088f6053500024b170.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vishal\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\vishal\AndroidStudioProjects\DecThree\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_79efe79b6cbe1a9788a6ccc6efa3e6ab2689828f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vishal\AndroidStudioProjects\DecThree\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\vishal\AndroidStudioProjects\DecThree\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.0.0-alpha1_05acf34b5c57573f5da733daf413c70b9548037d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vishal\AndroidStudioProjects\DecThree\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\vishal\AndroidStudioProjects\DecThree\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.0-alpha1_a8ac9a960c368a10fb9e6284f9b66c18eb6a58fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vishal\AndroidStudioProjects\DecThree\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\vishal\AndroidStudioProjects\DecThree\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-26.0.0-alpha1_fc59b9d474540ff91951aea231d08d875501b175.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vishal\AndroidStudioProjects\DecThree\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\vishal\AndroidStudioProjects\DecThree\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.0.0-alpha1_09649609139802454fa20209c60fd0404eee8047.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vishal\AndroidStudioProjects\DecThree\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\vishal\AndroidStudioProjects\DecThree\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_5fd8a3cabb5426f2b5cfd3d914ba203308852675.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vishal\AndroidStudioProjects\DecThree\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\vishal\AndroidStudioProjects\DecThree\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.0.0-alpha1_51d333d78034f5146ffe9651ede5b2695c3da3c6.jar" />
+    </item>
+
+</items>
