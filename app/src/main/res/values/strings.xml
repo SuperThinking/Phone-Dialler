@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">DecThree</string>
+    <string name="del"><![CDATA[<]]></string>
+    <string name="del_all">C</string>
+    <string name="delete"><![CDATA[<]]></string>
 </resources>
